@@ -11,7 +11,7 @@ int main()
        
        int space=n-i;
        while(space){
-           cout<<"*";
+           cout<<"+";
           space=space-1;
        }
        int j=1;
